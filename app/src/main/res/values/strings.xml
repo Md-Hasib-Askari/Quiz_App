@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+
+    <string name="question_1">Whale sharks have teeth on their eyeballs.</string>
+    <string name="question_2">Hot water freezes faster than cold water.</string>
+    <string name="question_3">Canada\'s forests make up nearly 9% of the world\’s total forest area.</string>
+    <string name="question_4">If a Lone Star Tick bites you, you may become allergic to red meat.</string>
+    <string name="question_5">There are only two countries in the world that have \"The\" as part of their country\'s name.</string>
+    <string name="question_6">In 1919, a wave a molasses rushed through the streets of Boston killing 21 people and injuring 150.</string>
+    <string name="question_7">Scotland has over 400 words for \"snow\"</string>
+    <string name="question_8">A day on Venus lasts longer than a year on Venus.</string>
+    <string name="question_9">There\'s a real music piece name 4\′33\″ that involves all the musicians just silently holding their instruments.</string>
+    <string name="question_10">The Brontosaurus never existed.</string>
+
+</resources>
